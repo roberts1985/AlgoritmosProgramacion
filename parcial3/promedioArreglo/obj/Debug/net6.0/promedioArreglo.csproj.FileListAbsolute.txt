@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/promedioArreglo
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/promedioArreglo.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/promedioArreglo.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/promedioArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/ref/promedioArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/bin/Debug/net6.0/promedioArreglo.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/ref/promedioArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/promedioArreglo/obj/Debug/net6.0/promedioArreglo.genruntimeconfig.cache

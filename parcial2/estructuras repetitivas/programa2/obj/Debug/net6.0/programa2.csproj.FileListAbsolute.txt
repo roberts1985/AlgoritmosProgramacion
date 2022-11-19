@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/programa2
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/programa2.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/programa2.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/programa2.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/ref/programa2.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/bin/Debug/net6.0/programa2.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/ref/programa2.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/estructuras repetitivas/programa2/obj/Debug/net6.0/programa2.genruntimeconfig.cache

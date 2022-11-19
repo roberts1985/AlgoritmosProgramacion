@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/3
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/3.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/3.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/3.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/ref/3.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/bin/Debug/net6.0/3.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/ref/3.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial2/arreglos/3/obj/Debug/net6.0/3.genruntimeconfig.cache

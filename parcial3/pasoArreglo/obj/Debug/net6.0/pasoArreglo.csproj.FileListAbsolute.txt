@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/pasoArreglo
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/pasoArreglo.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/pasoArreglo.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/pasoArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/ref/pasoArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/bin/Debug/net6.0/pasoArreglo.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/ref/pasoArreglo.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/pasoArreglo/obj/Debug/net6.0/pasoArreglo.genruntimeconfig.cache

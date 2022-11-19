@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/metodos
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/metodos.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/metodos.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/metodos.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/ref/metodos.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/bin/Debug/net6.0/metodos.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/ref/metodos.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/metodos/obj/Debug/net6.0/metodos.genruntimeconfig.cache

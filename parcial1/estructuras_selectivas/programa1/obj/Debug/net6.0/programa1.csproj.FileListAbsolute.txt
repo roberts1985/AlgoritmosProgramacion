@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/programa1
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/programa1.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/programa1.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/programa1.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/ref/programa1.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/bin/Debug/net6.0/programa1.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/ref/programa1.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial1/estructuras_selectivas/programa1/obj/Debug/net6.0/programa1.genruntimeconfig.cache
