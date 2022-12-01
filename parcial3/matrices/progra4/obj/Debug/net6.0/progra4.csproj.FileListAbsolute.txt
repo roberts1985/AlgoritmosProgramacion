@@ -1,0 +1,15 @@
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/progra4
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/progra4.deps.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/progra4.runtimeconfig.json
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/progra4.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/ref/progra4.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/bin/Debug/net6.0/progra4.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.csproj.AssemblyReference.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.AssemblyInfoInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.AssemblyInfo.cs
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.csproj.CoreCompileInputs.cache
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/ref/progra4.dll
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.pdb
+/Users/robertolee/Desktop/proyectosAlgoritmos/parcial3/matrices/progra4/obj/Debug/net6.0/progra4.genruntimeconfig.cache
